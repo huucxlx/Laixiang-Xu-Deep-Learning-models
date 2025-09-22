@@ -1,0 +1,786 @@
+2025-04-11 15:56:18,544 - INFO - Using 8 dataloader workers every process
+2025-04-11 15:58:14,969 - INFO - [Train epoch 0] loss: 0.353, acc: 0.884
+2025-04-11 15:58:14,969 - INFO - [Val epoch 0] loss: 0.172, acc: 0.935
+2025-04-11 15:58:15,073 - INFO - Best model saved at epoch 0 with val_loss 0.1717
+2025-04-11 15:59:45,531 - INFO - [Train epoch 1] loss: 0.184, acc: 0.942
+2025-04-11 15:59:45,531 - INFO - [Val epoch 1] loss: 0.116, acc: 0.956
+2025-04-11 15:59:45,622 - INFO - Best model saved at epoch 1 with val_loss 0.1163
+2025-04-11 16:01:17,008 - INFO - [Train epoch 2] loss: 0.148, acc: 0.953
+2025-04-11 16:01:17,008 - INFO - [Val epoch 2] loss: 0.290, acc: 0.894
+2025-04-11 16:01:17,008 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 16:06:24,876 - INFO - [Train epoch 5] loss: 0.082, acc: 0.977
+2025-04-11 16:06:24,876 - INFO - [Val epoch 5] loss: 0.033, acc: 0.991
+2025-04-11 16:06:25,310 - INFO - Best model saved at epoch 5 with val_loss 0.0326
+2025-04-11 16:08:27,632 - INFO - [Train epoch 6] loss: 0.070, acc: 0.982
+2025-04-11 16:08:27,632 - INFO - [Val epoch 6] loss: 0.035, acc: 0.991
+2025-04-11 16:08:27,632 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 16:10:18,767 - INFO - [Train epoch 7] loss: 0.058, acc: 0.987
+2025-04-11 16:10:18,767 - INFO - [Val epoch 7] loss: 0.027, acc: 0.992
+2025-04-11 16:10:18,869 - INFO - Best model saved at epoch 7 with val_loss 0.0265
+2025-04-11 16:12:19,373 - INFO - [Train epoch 8] loss: 0.060, acc: 0.982
+2025-04-11 16:12:19,373 - INFO - [Val epoch 8] loss: 0.026, acc: 0.995
+2025-04-11 16:12:19,800 - INFO - Best model saved at epoch 8 with val_loss 0.0263
+2025-04-11 16:13:46,997 - INFO - [Train epoch 9] loss: 0.063, acc: 0.983
+2025-04-11 16:13:46,997 - INFO - [Val epoch 9] loss: 0.026, acc: 0.992
+2025-04-11 16:13:47,098 - INFO - Best model saved at epoch 9 with val_loss 0.0258
+2025-04-11 16:15:13,127 - INFO - [Train epoch 10] loss: 0.051, acc: 0.987
+2025-04-11 16:15:13,127 - INFO - [Val epoch 10] loss: 0.021, acc: 0.995
+2025-04-11 16:15:13,227 - INFO - Best model saved at epoch 10 with val_loss 0.0214
+2025-04-11 16:16:39,563 - INFO - [Train epoch 11] loss: 0.047, acc: 0.988
+2025-04-11 16:16:39,563 - INFO - [Val epoch 11] loss: 0.034, acc: 0.991
+2025-04-11 16:16:39,563 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 16:18:15,971 - INFO - [Train epoch 12] loss: 0.041, acc: 0.988
+2025-04-11 16:18:15,971 - INFO - [Val epoch 12] loss: 0.018, acc: 0.997
+2025-04-11 16:18:16,401 - INFO - Best model saved at epoch 12 with val_loss 0.0180
+2025-04-11 16:19:47,287 - INFO - [Train epoch 13] loss: 0.041, acc: 0.989
+2025-04-11 16:19:47,287 - INFO - [Val epoch 13] loss: 0.024, acc: 0.993
+2025-04-11 16:19:47,287 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 16:21:34,214 - INFO - [Train epoch 14] loss: 0.053, acc: 0.986
+2025-04-11 16:21:34,214 - INFO - [Val epoch 14] loss: 0.025, acc: 0.995
+2025-04-11 16:21:34,214 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 16:23:35,975 - INFO - [Train epoch 15] loss: 0.047, acc: 0.988
+2025-04-11 16:23:35,975 - INFO - [Val epoch 15] loss: 0.023, acc: 0.991
+2025-04-11 16:23:35,975 - INFO - Val loss not improved for 3/3 epochs
+2025-04-11 16:23:35,975 - INFO - Early stopping triggered at epoch 15!
+2025-04-11 16:23:36,348 - INFO - Training finished. Best model from epoch 12, val_loss=0.0180
+
+
+
+
+2025-04-11 16:49:13,613 - INFO - [Train epoch 0] loss: 0.504, acc: 0.829
+2025-04-11 16:49:13,613 - INFO - [Val epoch 0] loss: 0.281, acc: 0.905
+2025-04-11 16:49:13,716 - INFO - Best model saved at epoch 0 with val_loss 0.2812
+2025-04-11 16:50:44,512 - INFO - [Train epoch 1] loss: 0.273, acc: 0.912
+2025-04-11 16:50:44,512 - INFO - [Val epoch 1] loss: 0.192, acc: 0.938
+2025-04-11 16:50:44,611 - INFO - Best model saved at epoch 1 with val_loss 0.1923
+2025-04-11 16:54:09,036 - INFO - [Train epoch 3] loss: 0.201, acc: 0.938
+2025-04-11 16:54:09,036 - INFO - [Val epoch 3] loss: 0.113, acc: 0.966
+2025-04-11 16:54:09,135 - INFO - Best model saved at epoch 3 with val_loss 0.1127
+2025-04-11 16:55:52,989 - INFO - [Train epoch 4] loss: 0.166, acc: 0.951
+2025-04-11 16:55:52,989 - INFO - [Val epoch 4] loss: 0.092, acc: 0.977
+2025-04-11 16:55:53,417 - INFO - Best model saved at epoch 4 with val_loss 0.0920
+2025-04-11 16:58:03,363 - INFO - [Train epoch 5] loss: 0.137, acc: 0.961
+2025-04-11 16:58:03,363 - INFO - [Val epoch 5] loss: 0.089, acc: 0.974
+2025-04-11 16:58:03,771 - INFO - Best model saved at epoch 5 with val_loss 0.0887
+2025-04-11 17:00:01,550 - INFO - [Train epoch 6] loss: 0.127, acc: 0.966
+2025-04-11 17:00:01,550 - INFO - [Val epoch 6] loss: 0.079, acc: 0.980
+2025-04-11 17:00:01,949 - INFO - Best model saved at epoch 6 with val_loss 0.0795
+2025-04-11 17:02:10,352 - INFO - [Train epoch 7] loss: 0.112, acc: 0.969
+2025-04-11 17:02:10,352 - INFO - [Val epoch 7] loss: 0.088, acc: 0.976
+2025-04-11 17:02:10,352 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 17:04:19,504 - INFO - [Train epoch 8] loss: 0.100, acc: 0.972
+2025-04-11 17:04:19,504 - INFO - [Val epoch 8] loss: 0.061, acc: 0.984
+2025-04-11 17:04:19,946 - INFO - Best model saved at epoch 8 with val_loss 0.0614
+2025-04-11 17:06:20,158 - INFO - [Train epoch 9] loss: 0.109, acc: 0.971
+2025-04-11 17:06:20,158 - INFO - [Val epoch 9] loss: 0.114, acc: 0.968
+2025-04-11 17:06:20,158 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 17:07:50,956 - INFO - [Train epoch 10] loss: 0.111, acc: 0.970
+2025-04-11 17:07:50,956 - INFO - [Val epoch 10] loss: 0.084, acc: 0.977
+2025-04-11 17:07:50,956 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 17:09:22,844 - INFO - [Train epoch 11] loss: 0.094, acc: 0.974
+2025-04-11 17:09:22,844 - INFO - [Val epoch 11] loss: 0.064, acc: 0.985
+2025-04-11 17:09:22,844 - INFO - Val loss not improved for 3/3 epochs
+2025-04-11 17:09:22,844 - INFO - Early stopping triggered at epoch 11!
+2025-04-11 17:09:22,942 - INFO - Training finished. Best model from epoch 8, val_loss=0.0614
+
+
+
+add DA 1
+2025-04-11 17:47:49,674 - INFO - [Train epoch 0] loss: 0.522, acc: 0.815
+2025-04-11 17:47:49,674 - INFO - [Val epoch 0] loss: 0.279, acc: 0.905
+2025-04-11 17:47:49,789 - INFO - Best model saved at epoch 0 with val_loss 0.2793
+2025-04-11 17:49:20,434 - INFO - [Train epoch 1] loss: 0.285, acc: 0.907
+2025-04-11 17:49:20,434 - INFO - [Val epoch 1] loss: 0.197, acc: 0.942
+2025-04-11 17:49:20,534 - INFO - Best model saved at epoch 1 with val_loss 0.1967
+2025-04-11 17:50:48,174 - INFO - [Train epoch 2] loss: 0.250, acc: 0.920
+2025-04-11 17:50:48,174 - INFO - [Val epoch 2] loss: 0.151, acc: 0.950
+2025-04-11 17:50:48,279 - INFO - Best model saved at epoch 2 with val_loss 0.1512
+2025-04-11 17:52:16,728 - INFO - [Train epoch 3] loss: 0.205, acc: 0.936
+2025-04-11 17:52:16,728 - INFO - [Val epoch 3] loss: 0.105, acc: 0.967
+2025-04-11 17:52:16,831 - INFO - Best model saved at epoch 3 with val_loss 0.1053
+2025-04-11 17:53:45,255 - INFO - [Train epoch 4] loss: 0.177, acc: 0.941
+2025-04-11 17:53:45,255 - INFO - [Val epoch 4] loss: 0.087, acc: 0.974
+2025-04-11 17:53:45,358 - INFO - Best model saved at epoch 4 with val_loss 0.0869
+2025-04-11 17:55:13,265 - INFO - [Train epoch 5] loss: 0.144, acc: 0.960
+2025-04-11 17:55:13,265 - INFO - [Val epoch 5] loss: 0.066, acc: 0.985
+2025-04-11 17:55:13,369 - INFO - Best model saved at epoch 5 with val_loss 0.0665
+2025-04-11 17:59:43,331 - INFO - [Train epoch 8] loss: 0.111, acc: 0.968
+2025-04-11 17:59:43,331 - INFO - [Val epoch 8] loss: 0.063, acc: 0.981
+2025-04-11 17:59:43,331 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 18:01:26,331 - INFO - [Train epoch 9] loss: 0.109, acc: 0.969
+2025-04-11 18:01:26,331 - INFO - [Val epoch 9] loss: 0.099, acc: 0.975
+2025-04-11 18:01:26,331 - INFO - Val loss not improved for 3/3 epochs
+2025-04-11 18:01:26,331 - INFO - Early stopping triggered at epoch 9!
+2025-04-11 18:01:26,759 - INFO - Training finished. Best model from epoch 6, val_loss=0.0595
+
+
+add DA 2
+2025-04-11 18:04:19,262 - INFO - Using 8 dataloader workers every process
+2025-04-11 18:06:29,884 - INFO - [Train epoch 0] loss: 0.504, acc: 0.830
+2025-04-11 18:06:29,884 - INFO - [Val epoch 0] loss: 0.330, acc: 0.908
+2025-04-11 18:06:30,335 - INFO - Best model saved at epoch 0 with val_loss 0.3299
+2025-04-11 18:08:06,157 - INFO - [Train epoch 1] loss: 0.292, acc: 0.902
+2025-04-11 18:08:06,157 - INFO - [Val epoch 1] loss: 0.313, acc: 0.924
+2025-04-11 18:08:06,253 - INFO - Best model saved at epoch 1 with val_loss 0.3132
+2025-04-11 18:14:10,086 - INFO - [Train epoch 5] loss: 0.161, acc: 0.950
+2025-04-11 18:14:10,087 - INFO - [Val epoch 5] loss: 0.108, acc: 0.963
+2025-04-11 18:14:10,087 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 18:15:54,017 - INFO - [Train epoch 6] loss: 0.140, acc: 0.959
+2025-04-11 18:15:54,017 - INFO - [Val epoch 6] loss: 0.063, acc: 0.986
+2025-04-11 18:15:54,111 - INFO - Best model saved at epoch 6 with val_loss 0.0631
+2025-04-11 18:17:41,715 - INFO - [Train epoch 7] loss: 0.119, acc: 0.967
+2025-04-11 18:17:41,715 - INFO - [Val epoch 7] loss: 0.083, acc: 0.977
+2025-04-11 18:17:41,715 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 18:19:34,803 - INFO - [Train epoch 8] loss: 0.117, acc: 0.965
+2025-04-11 18:19:34,804 - INFO - [Val epoch 8] loss: 0.059, acc: 0.987
+2025-04-11 18:19:34,898 - INFO - Best model saved at epoch 8 with val_loss 0.0589
+2025-04-11 18:21:19,309 - INFO - [Train epoch 9] loss: 0.106, acc: 0.973
+2025-04-11 18:21:19,310 - INFO - [Val epoch 9] loss: 0.074, acc: 0.978
+2025-04-11 18:21:19,310 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 18:23:18,678 - INFO - [Train epoch 10] loss: 0.104, acc: 0.971
+2025-04-11 18:23:18,678 - INFO - [Val epoch 10] loss: 0.075, acc: 0.979
+2025-04-11 18:23:18,679 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 18:24:47,955 - INFO - [Train epoch 11] loss: 0.101, acc: 0.973
+2025-04-11 18:24:47,955 - INFO - [Val epoch 11] loss: 0.057, acc: 0.985
+2025-04-11 18:24:48,057 - INFO - Best model saved at epoch 11 with val_loss 0.0571
+2025-04-11 18:26:40,529 - INFO - [Train epoch 12] loss: 0.095, acc: 0.974
+2025-04-11 18:26:40,530 - INFO - [Val epoch 12] loss: 0.057, acc: 0.984
+2025-04-11 18:26:41,017 - INFO - Best model saved at epoch 12 with val_loss 0.0567
+2025-04-11 18:28:27,766 - INFO - [Train epoch 13] loss: 0.091, acc: 0.972
+2025-04-11 18:28:27,766 - INFO - [Val epoch 13] loss: 0.034, acc: 0.992
+2025-04-11 18:28:27,875 - INFO - Best model saved at epoch 13 with val_loss 0.0345
+2025-04-11 18:30:01,047 - INFO - [Train epoch 14] loss: 0.092, acc: 0.973
+2025-04-11 18:30:01,047 - INFO - [Val epoch 14] loss: 0.072, acc: 0.979
+2025-04-11 18:30:01,047 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 18:32:06,895 - INFO - [Train epoch 15] loss: 0.091, acc: 0.974
+2025-04-11 18:32:06,896 - INFO - [Val epoch 15] loss: 0.051, acc: 0.980
+2025-04-11 18:32:06,897 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 18:34:13,380 - INFO - [Train epoch 16] loss: 0.073, acc: 0.978
+2025-04-11 18:34:13,380 - INFO - [Val epoch 16] loss: 0.042, acc: 0.986
+2025-04-11 18:34:13,381 - INFO - Val loss not improved for 3/3 epochs
+2025-04-11 18:34:13,385 - INFO - Early stopping triggered at epoch 16!
+2025-04-11 18:34:13,793 - INFO - Training finished. Best model from epoch 13, val_loss=0.0345
+
+
+add DA+INA  1
+2025-04-11 20:36:17,707 - INFO - Using 8 dataloader workers every process
+2025-04-11 20:58:33,755 - INFO - [Train epoch 0] loss: 0.514, acc: 0.830
+2025-04-11 20:58:33,758 - INFO - [Val epoch 0] loss: 0.311, acc: 0.885
+2025-04-11 20:58:34,186 - INFO - Best model saved at epoch 0 with val_loss 0.3113
+2025-04-11 21:06:33,787 - INFO - [Train epoch 5] loss: 0.159, acc: 0.952
+2025-04-11 21:06:33,787 - INFO - [Val epoch 5] loss: 0.070, acc: 0.983
+2025-04-11 21:06:34,214 - INFO - Best model saved at epoch 5 with val_loss 0.0696
+2025-04-11 21:08:18,423 - INFO - [Train epoch 6] loss: 0.145, acc: 0.956
+2025-04-11 21:08:18,424 - INFO - [Val epoch 6] loss: 0.064, acc: 0.980
+2025-04-11 21:08:18,837 - INFO - Best model saved at epoch 6 with val_loss 0.0638
+2025-04-11 21:10:24,083 - INFO - [Train epoch 7] loss: 0.126, acc: 0.963
+2025-04-11 21:10:24,094 - INFO - [Val epoch 7] loss: 0.069, acc: 0.984
+2025-04-11 21:10:24,094 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 21:12:30,305 - INFO - [Train epoch 8] loss: 0.123, acc: 0.965
+2025-04-11 21:12:30,305 - INFO - [Val epoch 8] loss: 0.073, acc: 0.983
+2025-04-11 21:12:30,305 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 21:14:31,538 - INFO - [Train epoch 9] loss: 0.111, acc: 0.967
+2025-04-11 21:14:31,538 - INFO - [Val epoch 9] loss: 0.062, acc: 0.983
+2025-04-11 21:14:31,968 - INFO - Best model saved at epoch 9 with val_loss 0.0623
+2025-04-11 21:16:38,854 - INFO - [Train epoch 10] loss: 0.108, acc: 0.969
+2025-04-11 21:16:38,854 - INFO - [Val epoch 10] loss: 0.061, acc: 0.983
+2025-04-11 21:16:39,317 - INFO - Best model saved at epoch 10 with val_loss 0.0606
+2025-04-11 21:18:43,156 - INFO - [Train epoch 11] loss: 0.091, acc: 0.972
+2025-04-11 21:18:43,156 - INFO - [Val epoch 11] loss: 0.056, acc: 0.983
+2025-04-11 21:18:43,576 - INFO - Best model saved at epoch 11 with val_loss 0.0563
+2025-04-11 21:20:51,319 - INFO - [Train epoch 12] loss: 0.106, acc: 0.969
+2025-04-11 21:20:51,319 - INFO - [Val epoch 12] loss: 0.053, acc: 0.985
+2025-04-11 21:20:51,824 - INFO - Best model saved at epoch 12 with val_loss 0.0530
+2025-04-11 21:22:59,825 - INFO - [Train epoch 13] loss: 0.098, acc: 0.970
+2025-04-11 21:22:59,835 - INFO - [Val epoch 13] loss: 0.050, acc: 0.987
+2025-04-11 21:23:01,143 - INFO - Best model saved at epoch 13 with val_loss 0.0503
+2025-04-11 21:25:14,257 - INFO - [Train epoch 14] loss: 0.091, acc: 0.974
+2025-04-11 21:25:14,257 - INFO - [Val epoch 14] loss: 0.044, acc: 0.985
+2025-04-11 21:25:14,714 - INFO - Best model saved at epoch 14 with val_loss 0.0435
+2025-04-11 21:27:46,678 - INFO - [Train epoch 15] loss: 0.085, acc: 0.974
+2025-04-11 21:27:46,678 - INFO - [Val epoch 15] loss: 0.057, acc: 0.986
+2025-04-11 21:27:46,678 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 21:29:50,281 - INFO - [Train epoch 16] loss: 0.084, acc: 0.975
+2025-04-11 21:29:50,281 - INFO - [Val epoch 16] loss: 0.044, acc: 0.989
+2025-04-11 21:29:50,281 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 21:31:56,194 - INFO - [Train epoch 17] loss: 0.084, acc: 0.976
+2025-04-11 21:31:56,194 - INFO - [Val epoch 17] loss: 0.042, acc: 0.991
+2025-04-11 21:31:56,627 - INFO - Best model saved at epoch 17 with val_loss 0.0416
+2025-04-11 21:33:41,264 - INFO - [Train epoch 18] loss: 0.071, acc: 0.978
+2025-04-11 21:33:41,264 - INFO - [Val epoch 18] loss: 0.051, acc: 0.989
+2025-04-11 21:33:41,264 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 21:35:39,845 - INFO - [Train epoch 19] loss: 0.079, acc: 0.976
+2025-04-11 21:35:39,845 - INFO - [Val epoch 19] loss: 0.028, acc: 0.992
+2025-04-11 21:35:40,310 - INFO - Best model saved at epoch 19 with val_loss 0.0279
+2025-04-11 21:35:40,699 - INFO - Training finished. Best model from epoch 19, val_loss=0.0279
+
+
+
+add DA+INA  2
+2025-04-11 21:46:15,008 - INFO - Using 8 dataloader workers every process
+2025-04-11 21:53:01,433 - INFO - [Train epoch 1] loss: 0.288, acc: 0.908
+2025-04-11 21:53:01,433 - INFO - [Val epoch 1] loss: 0.215, acc: 0.934
+2025-04-11 21:53:01,862 - INFO - Best model saved at epoch 1 with val_loss 0.2149
+2025-04-11 22:00:55,667 - INFO - [Train epoch 4] loss: 0.182, acc: 0.945
+2025-04-11 22:00:55,668 - INFO - [Val epoch 4] loss: 0.083, acc: 0.981
+2025-04-11 22:00:55,776 - INFO - Best model saved at epoch 4 with val_loss 0.0835
+2025-04-11 22:03:38,010 - INFO - [Train epoch 5] loss: 0.167, acc: 0.949
+2025-04-11 22:03:38,010 - INFO - [Val epoch 5] loss: 0.073, acc: 0.984
+2025-04-11 22:03:38,120 - INFO - Best model saved at epoch 5 with val_loss 0.0733
+2025-04-11 22:06:09,241 - INFO - [Train epoch 6] loss: 0.144, acc: 0.958
+2025-04-11 22:06:09,241 - INFO - [Val epoch 6] loss: 0.090, acc: 0.975
+2025-04-11 22:06:09,241 - INFO - Val loss not improved for 1/3 epochs
+2025-04-11 22:08:42,717 - INFO - [Train epoch 7] loss: 0.120, acc: 0.966
+2025-04-11 22:08:42,717 - INFO - [Val epoch 7] loss: 0.077, acc: 0.975
+2025-04-11 22:08:42,717 - INFO - Val loss not improved for 2/3 epochs
+2025-04-11 22:11:23,848 - INFO - [Train epoch 8] loss: 0.118, acc: 0.965
+2025-04-11 22:11:23,848 - INFO - [Val epoch 8] loss: 0.058, acc: 0.985
+2025-04-11 22:11:23,955 - INFO - Best model saved at epoch 8 with val_loss 0.0581
+2025-04-11 22:13:53,675 - INFO - [Train epoch 9] loss: 0.105, acc: 0.970
+2025-04-11 22:13:53,675 - INFO - [Val epoch 9] loss: 0.042, acc: 0.987
+2025-04-11 22:13:53,781 - INFO - Best model saved at epoch 9 with val_loss 0.0421
+2025-04-11 22:16:28,950 - INFO - [Train epoch 10] loss: 0.105, acc: 0.972
+2025-04-11 22:16:28,951 - INFO - [Val epoch 10] loss: 0.049, acc: 0.989
+2025-04-11 22:16:28,951 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 15:33:48,908 - INFO - [Train epoch 11] loss: 0.092, acc: 0.975
+2025-04-12 15:33:48,908 - INFO - [Val epoch 11] loss: 0.040, acc: 0.988
+2025-04-12 15:33:49,029 - INFO - Best model saved at epoch 11 with val_loss 0.0404
+2025-04-12 15:37:08,111 - INFO - [Train epoch 12] loss: 0.087, acc: 0.976
+2025-04-12 15:37:08,111 - INFO - [Val epoch 12] loss: 0.050, acc: 0.987
+2025-04-12 15:37:08,111 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 15:40:03,274 - INFO - [Train epoch 13] loss: 0.090, acc: 0.975
+2025-04-12 15:40:03,275 - INFO - [Val epoch 13] loss: 0.042, acc: 0.988
+2025-04-12 15:40:03,276 - INFO - Val loss not improved for 2/3 epochs
+2025-04-12 15:43:39,124 - INFO - [Train epoch 14] loss: 0.083, acc: 0.975
+2025-04-12 15:43:39,124 - INFO - [Val epoch 14] loss: 0.055, acc: 0.984
+2025-04-12 15:43:39,126 - INFO - Val loss not improved for 3/3 epochs
+2025-04-12 15:43:39,127 - INFO - Early stopping triggered at epoch 14!
+2025-04-12 15:43:39,607 - INFO - Training finished. Best model from epoch 11, val_loss=0.0404
+
+
+
+add DA+INA  3
+2025-04-12 15:53:43,857 - INFO - [Train epoch 0] loss: 0.510, acc: 0.823
+2025-04-12 15:53:43,857 - INFO - [Val epoch 0] loss: 0.321, acc: 0.906
+2025-04-12 15:53:44,290 - INFO - Best model saved at epoch 0 with val_loss 0.3209
+2025-04-12 15:56:53,431 - INFO - [Train epoch 1] loss: 0.275, acc: 0.911
+2025-04-12 15:56:53,432 - INFO - [Val epoch 1] loss: 0.308, acc: 0.918
+2025-04-12 15:56:53,832 - INFO - Best model saved at epoch 1 with val_loss 0.3078
+2025-04-12 16:02:33,462 - INFO - [Train epoch 3] loss: 0.216, acc: 0.932
+2025-04-12 16:02:33,462 - INFO - [Val epoch 3] loss: 0.405, acc: 0.897
+2025-04-12 16:02:33,462 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 16:05:30,147 - INFO - [Train epoch 4] loss: 0.183, acc: 0.944
+2025-04-12 16:05:30,148 - INFO - [Val epoch 4] loss: 0.166, acc: 0.941
+2025-04-12 16:05:30,565 - INFO - Best model saved at epoch 4 with val_loss 0.1660
+2025-04-12 16:08:48,959 - INFO - [Train epoch 5] loss: 0.159, acc: 0.953
+2025-04-12 16:08:48,959 - INFO - [Val epoch 5] loss: 0.103, acc: 0.966
+2025-04-12 16:08:49,372 - INFO - Best model saved at epoch 5 with val_loss 0.1025
+2025-04-12 16:11:58,244 - INFO - [Train epoch 6] loss: 0.133, acc: 0.958
+2025-04-12 16:11:58,245 - INFO - [Val epoch 6] loss: 0.081, acc: 0.979
+2025-04-12 16:11:58,659 - INFO - Best model saved at epoch 6 with val_loss 0.0807
+2025-04-12 16:15:14,987 - INFO - [Train epoch 7] loss: 0.127, acc: 0.962
+2025-04-12 16:15:14,988 - INFO - [Val epoch 7] loss: 0.093, acc: 0.969
+2025-04-12 16:15:14,989 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 16:18:24,654 - INFO - [Train epoch 8] loss: 0.118, acc: 0.969
+2025-04-12 16:18:24,654 - INFO - [Val epoch 8] loss: 0.053, acc: 0.987
+2025-04-12 16:18:25,071 - INFO - Best model saved at epoch 8 with val_loss 0.0527
+2025-04-12 16:20:57,516 - INFO - [Train epoch 9] loss: 0.114, acc: 0.968
+2025-04-12 16:20:57,516 - INFO - [Val epoch 9] loss: 0.072, acc: 0.981
+2025-04-12 16:20:57,517 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 16:23:27,581 - INFO - [Train epoch 10] loss: 0.104, acc: 0.970
+2025-04-12 16:23:27,582 - INFO - [Val epoch 10] loss: 0.053, acc: 0.986
+2025-04-12 16:23:27,685 - INFO - Best model saved at epoch 10 with val_loss 0.0526
+2025-04-12 16:25:57,795 - INFO - [Train epoch 11] loss: 0.107, acc: 0.968
+2025-04-12 16:25:57,798 - INFO - [Val epoch 11] loss: 0.051, acc: 0.985
+2025-04-12 16:25:57,897 - INFO - Best model saved at epoch 11 with val_loss 0.0510
+2025-04-12 16:28:27,063 - INFO - [Train epoch 12] loss: 0.092, acc: 0.972
+2025-04-12 16:28:27,063 - INFO - [Val epoch 12] loss: 0.073, acc: 0.980
+2025-04-12 16:28:27,063 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 16:30:53,141 - INFO - [Train epoch 13] loss: 0.094, acc: 0.971
+2025-04-12 16:30:53,141 - INFO - [Val epoch 13] loss: 0.047, acc: 0.988
+2025-04-12 16:30:53,239 - INFO - Best model saved at epoch 13 with val_loss 0.0466
+2025-04-12 16:33:22,687 - INFO - [Train epoch 14] loss: 0.091, acc: 0.974
+2025-04-12 16:33:22,688 - INFO - [Val epoch 14] loss: 0.043, acc: 0.986
+2025-04-12 16:33:22,785 - INFO - Best model saved at epoch 14 with val_loss 0.0434
+2025-04-12 16:35:57,868 - INFO - [Train epoch 15] loss: 0.085, acc: 0.975
+2025-04-12 16:35:57,868 - INFO - [Val epoch 15] loss: 0.035, acc: 0.992
+2025-04-12 16:35:57,972 - INFO - Best model saved at epoch 15 with val_loss 0.0351
+2025-04-12 16:38:29,040 - INFO - [Train epoch 16] loss: 0.080, acc: 0.978
+2025-04-12 16:38:29,040 - INFO - [Val epoch 16] loss: 0.032, acc: 0.992
+2025-04-12 16:38:29,139 - INFO - Best model saved at epoch 16 with val_loss 0.0324
+2025-04-12 16:45:11,481 - INFO - [Train epoch 17] loss: 0.079, acc: 0.976
+2025-04-12 16:45:11,481 - INFO - [Val epoch 17] loss: 0.037, acc: 0.993
+2025-04-12 16:45:11,482 - INFO - Val loss not improved for 1/3 epochs
+2025-04-12 16:47:48,723 - INFO - [Train epoch 18] loss: 0.081, acc: 0.978
+2025-04-12 16:47:48,723 - INFO - [Val epoch 18] loss: 0.042, acc: 0.987
+2025-04-12 16:47:48,723 - INFO - Val loss not improved for 2/3 epochs
+2025-04-12 16:50:22,807 - INFO - [Train epoch 19] loss: 0.071, acc: 0.982
+2025-04-12 16:50:22,807 - INFO - [Val epoch 19] loss: 0.059, acc: 0.985
+2025-04-12 16:50:22,807 - INFO - Val loss not improved for 3/3 epochs
+2025-04-12 16:50:22,808 - INFO - Early stopping triggered at epoch 19!
+2025-04-12 16:50:22,916 - INFO - Training finished. Best model from epoch 16, val_loss=0.0324
+
+
+
+
+add DA+INA  4
+2025-04-15 21:06:33,229 - INFO - [Train epoch 1] loss: 0.317, acc: 0.900
+2025-04-15 21:06:33,233 - INFO - [Val epoch 1] loss: 0.253, acc: 0.941
+2025-04-15 21:06:33,672 - INFO - Best model saved at epoch 1 with val_loss 0.2534
+2025-04-15 21:11:27,282 - INFO - [Train epoch 2] loss: 0.239, acc: 0.925
+2025-04-15 21:11:27,282 - INFO - [Val epoch 2] loss: 0.204, acc: 0.951
+2025-04-15 21:11:27,715 - INFO - Best model saved at epoch 2 with val_loss 0.2037
+2025-04-15 21:15:44,267 - INFO - [Train epoch 3] loss: 0.178, acc: 0.948
+2025-04-15 21:15:44,268 - INFO - [Val epoch 3] loss: 0.148, acc: 0.964
+2025-04-15 21:15:44,697 - INFO - Best model saved at epoch 3 with val_loss 0.1482
+2025-04-15 21:18:52,101 - INFO - [Train epoch 4] loss: 0.168, acc: 0.947
+2025-04-15 21:18:52,101 - INFO - [Val epoch 4] loss: 0.124, acc: 0.960
+2025-04-15 21:18:52,200 - INFO - Best model saved at epoch 4 with val_loss 0.1242
+2025-04-15 21:21:55,442 - INFO - [Train epoch 5] loss: 0.142, acc: 0.956
+2025-04-15 21:21:55,442 - INFO - [Val epoch 5] loss: 0.114, acc: 0.970
+2025-04-15 21:21:55,540 - INFO - Best model saved at epoch 5 with val_loss 0.1136
+2025-04-15 21:24:58,554 - INFO - [Train epoch 6] loss: 0.137, acc: 0.958
+2025-04-15 21:24:58,554 - INFO - [Val epoch 6] loss: 0.103, acc: 0.968
+2025-04-15 21:24:58,654 - INFO - Best model saved at epoch 6 with val_loss 0.1030
+2025-04-15 21:27:59,138 - INFO - [Train epoch 7] loss: 0.130, acc: 0.958
+2025-04-15 21:27:59,138 - INFO - [Val epoch 7] loss: 0.093, acc: 0.976
+2025-04-15 21:27:59,238 - INFO - Best model saved at epoch 7 with val_loss 0.0926
+2025-04-15 21:30:57,581 - INFO - [Train epoch 8] loss: 0.121, acc: 0.963
+2025-04-15 21:30:57,581 - INFO - [Val epoch 8] loss: 0.076, acc: 0.981
+2025-04-15 21:30:57,679 - INFO - Best model saved at epoch 8 with val_loss 0.0755
+2025-04-15 21:33:56,354 - INFO - [Train epoch 9] loss: 0.115, acc: 0.964
+2025-04-15 21:33:56,354 - INFO - [Val epoch 9] loss: 0.061, acc: 0.980
+2025-04-15 21:33:56,457 - INFO - Best model saved at epoch 9 with val_loss 0.0609
+2025-04-15 21:37:00,091 - INFO - [Train epoch 10] loss: 0.103, acc: 0.967
+2025-04-15 21:37:00,091 - INFO - [Val epoch 10] loss: 0.087, acc: 0.975
+2025-04-15 21:37:00,091 - INFO - Val loss not improved for 1/3 epochs
+2025-04-15 21:40:01,721 - INFO - [Train epoch 11] loss: 0.107, acc: 0.966
+2025-04-15 21:40:01,721 - INFO - [Val epoch 11] loss: 0.066, acc: 0.982
+2025-04-15 21:40:01,722 - INFO - Val loss not improved for 2/3 epochs
+2025-04-15 21:42:54,730 - INFO - [Train epoch 12] loss: 0.099, acc: 0.969
+2025-04-15 21:42:54,730 - INFO - [Val epoch 12] loss: 0.070, acc: 0.984
+2025-04-15 21:42:54,730 - INFO - Val loss not improved for 3/3 epochs
+2025-04-15 21:42:54,731 - INFO - Early stopping triggered at epoch 12!
+2025-04-15 21:42:54,824 - INFO - Training finished. Best model from epoch 9, val_loss=0.0609
+
+
+
+
+xiu gai 10000   1
+2025-04-22 17:53:11,132 - INFO - Using 8 dataloader workers every process
+2025-04-22 17:53:11,592 - INFO - freeze patch_embed.proj.weight
+2025-04-22 17:53:11,592 - INFO - freeze patch_embed.proj.bias
+2025-04-22 17:53:11,592 - INFO - freeze patch_embed.norm.weight
+2025-04-22 17:53:11,592 - INFO - freeze patch_embed.norm.bias
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.norm1.weight
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.norm1.bias
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.0.weight
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.0.bias
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.2.weight
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.2.bias
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.qkv.weight
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.qkv.bias
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.proj.weight
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.attn.proj.bias
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.norm2.weight
+2025-04-22 17:53:11,592 - INFO - freeze layers.0.blocks.0.norm2.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.0.mlp.fc1.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.0.mlp.fc1.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.0.mlp.fc2.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.0.mlp.fc2.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.norm1.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.norm1.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.0.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.0.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.2.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.2.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.qkv.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.qkv.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.proj.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.attn.proj.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.norm2.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.norm2.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.mlp.fc1.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.mlp.fc1.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.mlp.fc2.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.blocks.1.mlp.fc2.bias
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.downsample.reduction.weight
+2025-04-22 17:53:11,593 - INFO - freeze layers.0.downsample.norm.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.0.downsample.norm.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.norm1.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.norm1.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.0.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.0.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.2.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.2.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.qkv.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.qkv.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.proj.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.attn.proj.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.norm2.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.norm2.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.mlp.fc1.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.mlp.fc1.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.mlp.fc2.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.0.mlp.fc2.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.1.norm1.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.1.norm1.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.0.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.0.bias
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.2.weight
+2025-04-22 17:53:11,594 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.2.bias
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.attn.qkv.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.attn.qkv.bias
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.attn.proj.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.attn.proj.bias
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.norm2.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.norm2.bias
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.mlp.fc1.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.mlp.fc1.bias
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.mlp.fc2.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.blocks.1.mlp.fc2.bias
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.downsample.reduction.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.downsample.norm.weight
+2025-04-22 17:53:11,595 - INFO - freeze layers.1.downsample.norm.bias
+2025-04-22 17:56:51,637 - INFO - [Train epoch 0] loss: 0.401, acc: 0.864
+2025-04-22 17:56:51,642 - INFO - [Val epoch 0] loss: 0.404, acc: 0.904
+2025-04-22 17:56:51,948 - INFO - Best model saved at epoch 0 with val_loss 0.4037
+2025-04-22 18:01:13,847 - INFO - [Train epoch 1] loss: 0.218, acc: 0.934
+2025-04-22 18:01:13,847 - INFO - [Val epoch 1] loss: 0.195, acc: 0.964
+2025-04-22 18:01:14,342 - INFO - Best model saved at epoch 1 with val_loss 0.1946
+2025-04-22 18:05:44,300 - INFO - [Train epoch 2] loss: 0.155, acc: 0.955
+2025-04-22 18:05:44,301 - INFO - [Val epoch 2] loss: 0.131, acc: 0.972
+2025-04-22 18:05:44,729 - INFO - Best model saved at epoch 2 with val_loss 0.1309
+2025-04-22 18:09:50,220 - INFO - [Train epoch 3] loss: 0.114, acc: 0.964
+2025-04-22 18:09:50,220 - INFO - [Val epoch 3] loss: 0.095, acc: 0.978
+2025-04-22 18:09:50,720 - INFO - Best model saved at epoch 3 with val_loss 0.0951
+2025-04-22 18:13:48,200 - INFO - [Train epoch 4] loss: 0.101, acc: 0.972
+2025-04-22 18:13:48,200 - INFO - [Val epoch 4] loss: 0.092, acc: 0.978
+2025-04-22 18:13:48,628 - INFO - Best model saved at epoch 4 with val_loss 0.0923
+2025-04-22 18:17:31,930 - INFO - [Train epoch 5] loss: 0.098, acc: 0.968
+2025-04-22 18:17:31,930 - INFO - [Val epoch 5] loss: 0.069, acc: 0.981
+2025-04-22 18:17:32,359 - INFO - Best model saved at epoch 5 with val_loss 0.0695
+2025-04-22 18:21:21,205 - INFO - [Train epoch 6] loss: 0.089, acc: 0.973
+2025-04-22 18:21:21,206 - INFO - [Val epoch 6] loss: 0.076, acc: 0.981
+2025-04-22 18:21:21,207 - INFO - Val loss not improved for 1/3 epochs
+2025-04-22 18:24:26,361 - INFO - [Train epoch 7] loss: 0.076, acc: 0.978
+2025-04-22 18:24:26,361 - INFO - [Val epoch 7] loss: 0.066, acc: 0.980
+2025-04-22 18:24:26,468 - INFO - Best model saved at epoch 7 with val_loss 0.0660
+2025-04-22 18:28:28,564 - INFO - [Train epoch 8] loss: 0.067, acc: 0.981
+2025-04-22 18:28:28,565 - INFO - [Val epoch 8] loss: 0.059, acc: 0.986
+2025-04-22 18:28:29,017 - INFO - Best model saved at epoch 8 with val_loss 0.0590
+2025-04-22 18:32:28,222 - INFO - [Train epoch 9] loss: 0.070, acc: 0.980
+2025-04-22 18:32:28,223 - INFO - [Val epoch 9] loss: 0.060, acc: 0.985
+2025-04-22 18:32:28,224 - INFO - Val loss not improved for 1/3 epochs
+2025-04-22 18:36:11,834 - INFO - [Train epoch 10] loss: 0.066, acc: 0.979
+2025-04-22 18:36:11,835 - INFO - [Val epoch 10] loss: 0.059, acc: 0.985
+2025-04-22 18:36:11,836 - INFO - Val loss not improved for 2/3 epochs
+2025-04-22 18:39:58,809 - INFO - [Train epoch 11] loss: 0.065, acc: 0.981
+2025-04-22 18:39:58,810 - INFO - [Val epoch 11] loss: 0.070, acc: 0.986
+2025-04-22 18:39:58,810 - INFO - Val loss not improved for 3/3 epochs
+2025-04-22 18:39:58,812 - INFO - Early stopping triggered at epoch 11!
+2025-04-22 18:39:59,274 - INFO - Training finished. Best model from epoch 8, val_loss=0.0590
+
+
+
+
+2025-04-23 21:02:39,129 - INFO - Using 8 dataloader workers every process
+2025-04-23 21:02:39,614 - INFO - freeze patch_embed.proj.weight
+2025-04-23 21:02:39,614 - INFO - freeze patch_embed.proj.bias
+2025-04-23 21:02:39,614 - INFO - freeze patch_embed.norm.weight
+2025-04-23 21:02:39,614 - INFO - freeze patch_embed.norm.bias
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.norm1.weight
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.norm1.bias
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.0.weight
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.0.bias
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.2.weight
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.attn.relative_position_mlp.2.bias
+2025-04-23 21:02:39,614 - INFO - freeze layers.0.blocks.0.attn.qkv.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.attn.qkv.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.attn.proj.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.attn.proj.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.norm2.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.norm2.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.mlp.fc1.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.mlp.fc1.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.mlp.fc2.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.0.mlp.fc2.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.norm1.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.norm1.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.0.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.0.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.2.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.relative_position_mlp.2.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.qkv.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.qkv.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.proj.weight
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.attn.proj.bias
+2025-04-23 21:02:39,615 - INFO - freeze layers.0.blocks.1.norm2.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.blocks.1.norm2.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.blocks.1.mlp.fc1.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.blocks.1.mlp.fc1.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.blocks.1.mlp.fc2.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.blocks.1.mlp.fc2.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.downsample.reduction.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.downsample.norm.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.0.downsample.norm.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.norm1.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.norm1.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.0.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.0.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.2.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.relative_position_mlp.2.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.qkv.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.qkv.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.proj.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.attn.proj.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.norm2.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.norm2.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.mlp.fc1.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.mlp.fc1.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.mlp.fc2.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.0.mlp.fc2.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.norm1.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.norm1.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.0.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.0.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.2.weight
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.attn.relative_position_mlp.2.bias
+2025-04-23 21:02:39,616 - INFO - freeze layers.1.blocks.1.attn.qkv.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.attn.qkv.bias
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.attn.proj.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.attn.proj.bias
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.norm2.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.norm2.bias
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.mlp.fc1.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.mlp.fc1.bias
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.mlp.fc2.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.blocks.1.mlp.fc2.bias
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.downsample.reduction.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.downsample.norm.weight
+2025-04-23 21:02:39,618 - INFO - freeze layers.1.downsample.norm.bias
+2025-04-23 21:05:44,511 - INFO - [Train epoch 0] loss: 0.391, acc: 0.874
+2025-04-23 21:05:44,512 - INFO - [Val epoch 0] loss: 0.266, acc: 0.934
+2025-04-23 21:05:45,041 - INFO - Best model saved at epoch 0 with val_loss 0.2659
+2025-04-23 21:09:54,425 - INFO - [Train epoch 1] loss: 0.222, acc: 0.932
+2025-04-23 21:09:54,427 - INFO - [Val epoch 1] loss: 0.196, acc: 0.948
+2025-04-23 21:09:54,855 - INFO - Best model saved at epoch 1 with val_loss 0.1963
+2025-04-23 21:14:51,569 - INFO - [Train epoch 2] loss: 0.164, acc: 0.950
+2025-04-23 21:14:51,569 - INFO - [Val epoch 2] loss: 0.139, acc: 0.971
+2025-04-23 21:14:52,017 - INFO - Best model saved at epoch 2 with val_loss 0.1390
+2025-04-23 21:19:31,418 - INFO - [Train epoch 3] loss: 0.124, acc: 0.962
+2025-04-23 21:19:31,420 - INFO - [Val epoch 3] loss: 0.099, acc: 0.979
+2025-04-23 21:19:31,950 - INFO - Best model saved at epoch 3 with val_loss 0.0992
+2025-04-23 21:24:22,606 - INFO - [Train epoch 4] loss: 0.104, acc: 0.968
+2025-04-23 21:24:22,611 - INFO - [Val epoch 4] loss: 0.080, acc: 0.981
+2025-04-23 21:24:23,154 - INFO - Best model saved at epoch 4 with val_loss 0.0796
+2025-04-23 21:29:26,356 - INFO - [Train epoch 5] loss: 0.089, acc: 0.973
+2025-04-23 21:29:26,357 - INFO - [Val epoch 5] loss: 0.077, acc: 0.979
+2025-04-23 21:29:26,794 - INFO - Best model saved at epoch 5 with val_loss 0.0773
+2025-04-23 21:33:41,382 - INFO - [Train epoch 6] loss: 0.082, acc: 0.974
+2025-04-23 21:33:41,384 - INFO - [Val epoch 6] loss: 0.062, acc: 0.984
+2025-04-23 21:33:41,838 - INFO - Best model saved at epoch 6 with val_loss 0.0618
+2025-04-23 21:37:51,721 - INFO - [Train epoch 7] loss: 0.083, acc: 0.975
+2025-04-23 21:37:51,722 - INFO - [Val epoch 7] loss: 0.056, acc: 0.987
+2025-04-23 21:37:52,216 - INFO - Best model saved at epoch 7 with val_loss 0.0562
+2025-04-23 21:42:05,690 - INFO - [Train epoch 8] loss: 0.069, acc: 0.980
+2025-04-23 21:42:05,690 - INFO - [Val epoch 8] loss: 0.053, acc: 0.989
+2025-04-23 21:42:06,170 - INFO - Best model saved at epoch 8 with val_loss 0.0532
+2025-04-23 21:46:13,873 - INFO - [Train epoch 9] loss: 0.070, acc: 0.981
+2025-04-23 21:46:13,873 - INFO - [Val epoch 9] loss: 0.050, acc: 0.988
+2025-04-23 21:46:14,308 - INFO - Best model saved at epoch 9 with val_loss 0.0500
+2025-04-23 21:50:39,069 - INFO - [Train epoch 10] loss: 0.072, acc: 0.981
+2025-04-23 21:50:39,070 - INFO - [Val epoch 10] loss: 0.053, acc: 0.987
+2025-04-23 21:55:20,244 - INFO - [Train epoch 11] loss: 0.063, acc: 0.982
+2025-04-23 21:55:20,245 - INFO - [Val epoch 11] loss: 0.048, acc: 0.987
+2025-04-23 21:55:20,726 - INFO - Best model saved at epoch 11 with val_loss 0.0481
+2025-04-23 21:59:41,295 - INFO - [Train epoch 12] loss: 0.058, acc: 0.984
+2025-04-23 21:59:41,296 - INFO - [Val epoch 12] loss: 0.047, acc: 0.989
+2025-04-23 21:59:41,777 - INFO - Best model saved at epoch 12 with val_loss 0.0471
+2025-04-23 22:04:49,868 - INFO - [Train epoch 13] loss: 0.059, acc: 0.983
+2025-04-23 22:04:49,870 - INFO - [Val epoch 13] loss: 0.055, acc: 0.988
+2025-04-23 22:09:00,537 - INFO - [Train epoch 14] loss: 0.053, acc: 0.986
+2025-04-23 22:09:00,537 - INFO - [Val epoch 14] loss: 0.058, acc: 0.987
+2025-04-23 22:13:27,183 - INFO - [Train epoch 15] loss: 0.054, acc: 0.985
+2025-04-23 22:13:27,185 - INFO - [Val epoch 15] loss: 0.050, acc: 0.987
+2025-04-23 22:17:52,813 - INFO - [Train epoch 16] loss: 0.055, acc: 0.985
+2025-04-23 22:17:52,815 - INFO - [Val epoch 16] loss: 0.031, acc: 0.992
+2025-04-23 22:17:53,278 - INFO - Best model saved at epoch 16 with val_loss 0.0312
+2025-04-23 22:22:33,950 - INFO - [Train epoch 17] loss: 0.052, acc: 0.985
+2025-04-23 22:22:33,953 - INFO - [Val epoch 17] loss: 0.031, acc: 0.992
+2025-04-23 22:22:34,418 - INFO - Best model saved at epoch 17 with val_loss 0.0307
+2025-04-23 22:26:56,642 - INFO - [Train epoch 18] loss: 0.047, acc: 0.987
+2025-04-23 22:26:56,644 - INFO - [Val epoch 18] loss: 0.035, acc: 0.993
+2025-04-23 22:31:48,321 - INFO - [Train epoch 19] loss: 0.047, acc: 0.986
+2025-04-23 22:31:48,322 - INFO - [Val epoch 19] loss: 0.033, acc: 0.994
+2025-04-23 22:36:15,739 - INFO - [Train epoch 20] loss: 0.049, acc: 0.985
+2025-04-23 22:36:15,739 - INFO - [Val epoch 20] loss: 0.028, acc: 0.993
+2025-04-23 22:36:16,215 - INFO - Best model saved at epoch 20 with val_loss 0.0285
+2025-04-23 22:41:02,893 - INFO - [Train epoch 21] loss: 0.048, acc: 0.988
+2025-04-23 22:41:02,895 - INFO - [Val epoch 21] loss: 0.043, acc: 0.987
+2025-04-23 22:45:40,072 - INFO - [Train epoch 22] loss: 0.045, acc: 0.987
+2025-04-23 22:45:40,073 - INFO - [Val epoch 22] loss: 0.029, acc: 0.993
+2025-04-23 22:48:35,670 - INFO - [Train epoch 23] loss: 0.039, acc: 0.987
+2025-04-23 22:48:35,670 - INFO - [Val epoch 23] loss: 0.021, acc: 0.993
+2025-04-23 22:48:35,784 - INFO - Best model saved at epoch 23 with val_loss 0.0213
+2025-04-23 22:51:36,475 - INFO - [Train epoch 24] loss: 0.043, acc: 0.987
+2025-04-23 22:51:36,476 - INFO - [Val epoch 24] loss: 0.028, acc: 0.993
+2025-04-23 22:54:28,962 - INFO - [Train epoch 25] loss: 0.037, acc: 0.991
+2025-04-23 22:54:28,962 - INFO - [Val epoch 25] loss: 0.023, acc: 0.996
+2025-04-23 22:57:26,582 - INFO - [Train epoch 26] loss: 0.044, acc: 0.988
+2025-04-23 22:57:26,582 - INFO - [Val epoch 26] loss: 0.018, acc: 0.995
+2025-04-23 22:57:26,688 - INFO - Best model saved at epoch 26 with val_loss 0.0182
+2025-04-23 23:00:20,088 - INFO - [Train epoch 27] loss: 0.045, acc: 0.987
+2025-04-23 23:00:20,089 - INFO - [Val epoch 27] loss: 0.021, acc: 0.994
+2025-04-23 23:03:15,673 - INFO - [Train epoch 28] loss: 0.045, acc: 0.990
+2025-04-23 23:03:15,674 - INFO - [Val epoch 28] loss: 0.028, acc: 0.993
+2025-04-23 23:06:08,984 - INFO - [Train epoch 29] loss: 0.040, acc: 0.989
+2025-04-23 23:06:08,985 - INFO - [Val epoch 29] loss: 0.016, acc: 0.996
+2025-04-23 23:06:09,089 - INFO - Best model saved at epoch 29 with val_loss 0.0158
+2025-04-23 23:09:08,653 - INFO - [Train epoch 30] loss: 0.039, acc: 0.988
+2025-04-23 23:09:08,654 - INFO - [Val epoch 30] loss: 0.027, acc: 0.993
+2025-04-23 23:11:59,630 - INFO - [Train epoch 31] loss: 0.034, acc: 0.989
+2025-04-23 23:11:59,631 - INFO - [Val epoch 31] loss: 0.022, acc: 0.994
+2025-04-23 23:14:53,500 - INFO - [Train epoch 32] loss: 0.036, acc: 0.989
+2025-04-23 23:14:53,500 - INFO - [Val epoch 32] loss: 0.030, acc: 0.992
+2025-04-23 23:17:43,536 - INFO - [Train epoch 33] loss: 0.033, acc: 0.990
+2025-04-23 23:17:43,536 - INFO - [Val epoch 33] loss: 0.013, acc: 0.997
+2025-04-23 23:17:43,644 - INFO - Best model saved at epoch 33 with val_loss 0.0133
+2025-04-23 23:20:38,991 - INFO - [Train epoch 34] loss: 0.039, acc: 0.989
+2025-04-23 23:20:38,991 - INFO - [Val epoch 34] loss: 0.026, acc: 0.993
+2025-04-23 23:23:34,008 - INFO - [Train epoch 35] loss: 0.034, acc: 0.990
+2025-04-23 23:23:34,008 - INFO - [Val epoch 35] loss: 0.019, acc: 0.995
+2025-04-23 23:26:29,477 - INFO - [Train epoch 36] loss: 0.036, acc: 0.988
+2025-04-23 23:26:29,477 - INFO - [Val epoch 36] loss: 0.016, acc: 0.996
+2025-04-23 23:29:24,297 - INFO - [Train epoch 37] loss: 0.032, acc: 0.991
+2025-04-23 23:29:24,298 - INFO - [Val epoch 37] loss: 0.016, acc: 0.994
+2025-04-23 23:35:30,665 - INFO - [Train epoch 38] loss: 0.035, acc: 0.990
+2025-04-23 23:35:30,666 - INFO - [Val epoch 38] loss: 0.022, acc: 0.993
+2025-04-23 23:39:23,209 - INFO - [Train epoch 39] loss: 0.029, acc: 0.991
+2025-04-23 23:39:23,209 - INFO - [Val epoch 39] loss: 0.016, acc: 0.993
+2025-04-23 23:43:20,064 - INFO - [Train epoch 40] loss: 0.035, acc: 0.989
+2025-04-23 23:43:20,065 - INFO - [Val epoch 40] loss: 0.013, acc: 0.996
+2025-04-23 23:47:09,426 - INFO - [Train epoch 41] loss: 0.031, acc: 0.991
+2025-04-23 23:47:09,426 - INFO - [Val epoch 41] loss: 0.020, acc: 0.994
+2025-04-23 23:51:05,122 - INFO - [Train epoch 42] loss: 0.030, acc: 0.992
+2025-04-23 23:51:05,122 - INFO - [Val epoch 42] loss: 0.019, acc: 0.995
+2025-04-23 23:54:59,826 - INFO - [Train epoch 43] loss: 0.030, acc: 0.991
+2025-04-23 23:54:59,826 - INFO - [Val epoch 43] loss: 0.018, acc: 0.996
+2025-04-23 23:58:59,584 - INFO - [Train epoch 44] loss: 0.031, acc: 0.991
+2025-04-23 23:58:59,584 - INFO - [Val epoch 44] loss: 0.015, acc: 0.994
+2025-04-24 08:13:15,632 - INFO - [Train epoch 45] loss: 0.029, acc: 0.991
+2025-04-24 08:13:15,633 - INFO - [Val epoch 45] loss: 0.023, acc: 0.994
+2025-04-24 08:16:25,563 - INFO - [Train epoch 46] loss: 0.026, acc: 0.993
+2025-04-24 08:16:25,563 - INFO - [Val epoch 46] loss: 0.023, acc: 0.995
+2025-04-24 08:19:29,756 - INFO - [Train epoch 47] loss: 0.030, acc: 0.992
+2025-04-24 08:19:29,756 - INFO - [Val epoch 47] loss: 0.012, acc: 0.996
+2025-04-24 08:19:29,871 - INFO - Best model saved at epoch 47 with val_loss 0.0119
+2025-04-24 08:22:21,695 - INFO - [Train epoch 48] loss: 0.031, acc: 0.991
+2025-04-24 08:22:21,695 - INFO - [Val epoch 48] loss: 0.024, acc: 0.993
+2025-04-24 08:25:16,444 - INFO - [Train epoch 49] loss: 0.025, acc: 0.993
+2025-04-24 08:25:16,444 - INFO - [Val epoch 49] loss: 0.018, acc: 0.996
+2025-04-24 08:28:11,376 - INFO - [Train epoch 50] loss: 0.031, acc: 0.992
+2025-04-24 08:28:11,377 - INFO - [Val epoch 50] loss: 0.016, acc: 0.994
+2025-04-24 08:31:04,248 - INFO - [Train epoch 51] loss: 0.025, acc: 0.992
+2025-04-24 08:31:04,248 - INFO - [Val epoch 51] loss: 0.021, acc: 0.997
+2025-04-24 12:30:14,845 - INFO - [Train epoch 52] loss: 0.027, acc: 0.993
+2025-04-24 12:30:14,845 - INFO - [Val epoch 52] loss: 0.019, acc: 0.995
+2025-04-24 12:33:24,863 - INFO - [Train epoch 53] loss: 0.023, acc: 0.994
+2025-04-24 12:33:24,863 - INFO - [Val epoch 53] loss: 0.014, acc: 0.996
+2025-04-24 12:37:14,856 - INFO - [Train epoch 54] loss: 0.025, acc: 0.993
+2025-04-24 12:37:14,858 - INFO - [Val epoch 54] loss: 0.013, acc: 0.996
+2025-04-24 12:41:40,698 - INFO - [Train epoch 55] loss: 0.028, acc: 0.993
+2025-04-24 12:41:40,698 - INFO - [Val epoch 55] loss: 0.017, acc: 0.996
+2025-04-24 12:46:09,667 - INFO - [Train epoch 56] loss: 0.024, acc: 0.993
+2025-04-24 12:46:09,667 - INFO - [Val epoch 56] loss: 0.026, acc: 0.993
+2025-04-24 12:51:01,573 - INFO - [Train epoch 57] loss: 0.024, acc: 0.992
+2025-04-24 12:51:01,573 - INFO - [Val epoch 57] loss: 0.021, acc: 0.995
+2025-04-24 12:55:05,616 - INFO - [Train epoch 58] loss: 0.024, acc: 0.993
+2025-04-24 12:55:05,616 - INFO - [Val epoch 58] loss: 0.018, acc: 0.994
+2025-04-24 12:59:18,644 - INFO - [Train epoch 59] loss: 0.021, acc: 0.993
+2025-04-24 12:59:18,644 - INFO - [Val epoch 59] loss: 0.028, acc: 0.994
+2025-04-24 13:04:03,956 - INFO - [Train epoch 60] loss: 0.025, acc: 0.992
+2025-04-24 13:04:03,956 - INFO - [Val epoch 60] loss: 0.016, acc: 0.996
+2025-04-24 13:08:50,817 - INFO - [Train epoch 61] loss: 0.023, acc: 0.994
+2025-04-24 13:08:50,818 - INFO - [Val epoch 61] loss: 0.015, acc: 0.997
+2025-04-24 13:12:59,779 - INFO - [Train epoch 62] loss: 0.027, acc: 0.991
+2025-04-24 13:12:59,779 - INFO - [Val epoch 62] loss: 0.022, acc: 0.995
+2025-04-24 13:18:15,611 - INFO - [Train epoch 63] loss: 0.022, acc: 0.993
+2025-04-24 13:18:15,611 - INFO - [Val epoch 63] loss: 0.014, acc: 0.996
+2025-04-24 13:22:34,855 - INFO - [Train epoch 64] loss: 0.019, acc: 0.994
+2025-04-24 13:22:34,856 - INFO - [Val epoch 64] loss: 0.014, acc: 0.997
+2025-04-24 13:27:25,868 - INFO - [Train epoch 65] loss: 0.019, acc: 0.995
+2025-04-24 13:27:25,869 - INFO - [Val epoch 65] loss: 0.015, acc: 0.998
+2025-04-24 13:30:51,568 - INFO - [Train epoch 66] loss: 0.022, acc: 0.994
+2025-04-24 13:30:51,569 - INFO - [Val epoch 66] loss: 0.018, acc: 0.996
+2025-04-24 13:33:47,355 - INFO - [Train epoch 67] loss: 0.020, acc: 0.993
+2025-04-24 13:33:47,355 - INFO - [Val epoch 67] loss: 0.017, acc: 0.996
+2025-04-24 13:37:22,640 - INFO - [Train epoch 68] loss: 0.020, acc: 0.994
+2025-04-24 13:37:22,640 - INFO - [Val epoch 68] loss: 0.017, acc: 0.996
+2025-04-24 13:41:40,676 - INFO - [Train epoch 69] loss: 0.025, acc: 0.991
+2025-04-24 13:41:40,676 - INFO - [Val epoch 69] loss: 0.021, acc: 0.994
+2025-04-24 13:45:48,144 - INFO - [Train epoch 70] loss: 0.024, acc: 0.993
+2025-04-24 13:45:48,144 - INFO - [Val epoch 70] loss: 0.015, acc: 0.998
+2025-04-24 13:50:29,693 - INFO - [Train epoch 71] loss: 0.018, acc: 0.994
+2025-04-24 13:50:29,694 - INFO - [Val epoch 71] loss: 0.023, acc: 0.994
+2025-04-24 13:54:24,975 - INFO - [Train epoch 72] loss: 0.022, acc: 0.993
+2025-04-24 13:54:24,976 - INFO - [Val epoch 72] loss: 0.017, acc: 0.996
+2025-04-24 13:57:55,705 - INFO - [Train epoch 73] loss: 0.019, acc: 0.995
+2025-04-24 13:57:55,705 - INFO - [Val epoch 73] loss: 0.015, acc: 0.995
+2025-04-24 14:00:51,296 - INFO - [Train epoch 74] loss: 0.019, acc: 0.994
+2025-04-24 14:00:51,296 - INFO - [Val epoch 74] loss: 0.015, acc: 0.995
+2025-04-24 14:03:47,746 - INFO - [Train epoch 75] loss: 0.026, acc: 0.991
+2025-04-24 14:03:47,746 - INFO - [Val epoch 75] loss: 0.012, acc: 0.998
+2025-04-24 14:03:47,864 - INFO - Best model saved at epoch 75 with val_loss 0.0118
+2025-04-24 14:06:40,611 - INFO - [Train epoch 76] loss: 0.019, acc: 0.994
+2025-04-24 14:06:40,611 - INFO - [Val epoch 76] loss: 0.015, acc: 0.998
+2025-04-24 14:10:08,553 - INFO - [Train epoch 77] loss: 0.024, acc: 0.993
+2025-04-24 14:10:08,553 - INFO - [Val epoch 77] loss: 0.015, acc: 0.996
+2025-04-24 14:14:26,130 - INFO - [Train epoch 78] loss: 0.018, acc: 0.995
+2025-04-24 14:14:26,131 - INFO - [Val epoch 78] loss: 0.012, acc: 0.996
+2025-04-24 14:18:10,608 - INFO - [Train epoch 79] loss: 0.021, acc: 0.994
+2025-04-24 14:18:10,609 - INFO - [Val epoch 79] loss: 0.012, acc: 0.996
+2025-04-24 14:18:11,122 - INFO - Best model saved at epoch 79 with val_loss 0.0116
+2025-04-24 14:21:05,082 - INFO - [Train epoch 80] loss: 0.024, acc: 0.992
+2025-04-24 14:21:05,082 - INFO - [Val epoch 80] loss: 0.023, acc: 0.993
+2025-04-24 14:23:53,554 - INFO - [Train epoch 81] loss: 0.016, acc: 0.996
+2025-04-24 14:23:53,554 - INFO - [Val epoch 81] loss: 0.016, acc: 0.997
+2025-04-24 14:26:48,133 - INFO - [Train epoch 82] loss: 0.021, acc: 0.994
+2025-04-24 14:26:48,133 - INFO - [Val epoch 82] loss: 0.013, acc: 0.996
+2025-04-24 14:29:44,276 - INFO - [Train epoch 83] loss: 0.017, acc: 0.995
+2025-04-24 14:29:44,276 - INFO - [Val epoch 83] loss: 0.016, acc: 0.996
+2025-04-24 14:32:41,815 - INFO - [Train epoch 84] loss: 0.018, acc: 0.995
+2025-04-24 14:32:41,815 - INFO - [Val epoch 84] loss: 0.025, acc: 0.996
+2025-04-24 14:35:33,621 - INFO - [Train epoch 85] loss: 0.018, acc: 0.994
+2025-04-24 14:35:33,622 - INFO - [Val epoch 85] loss: 0.024, acc: 0.994
+2025-04-24 14:38:30,113 - INFO - [Train epoch 86] loss: 0.021, acc: 0.994
+2025-04-24 14:38:30,113 - INFO - [Val epoch 86] loss: 0.013, acc: 0.996
+2025-04-24 17:01:36,852 - INFO - [Train epoch 87] loss: 0.019, acc: 0.993
+2025-04-24 17:01:36,852 - INFO - [Val epoch 87] loss: 0.022, acc: 0.995
+2025-04-24 17:05:46,507 - INFO - [Train epoch 88] loss: 0.019, acc: 0.995
+2025-04-24 17:05:46,507 - INFO - [Val epoch 88] loss: 0.016, acc: 0.996
+2025-04-24 17:10:10,869 - INFO - [Train epoch 89] loss: 0.015, acc: 0.995
+2025-04-24 17:10:10,870 - INFO - [Val epoch 89] loss: 0.012, acc: 0.998
+2025-04-24 17:14:02,520 - INFO - [Train epoch 90] loss: 0.010, acc: 0.996
+2025-04-24 17:14:02,521 - INFO - [Val epoch 90] loss: 0.016, acc: 0.996
+2025-04-24 17:17:46,758 - INFO - [Train epoch 91] loss: 0.021, acc: 0.994
+2025-04-24 17:17:46,759 - INFO - [Val epoch 91] loss: 0.011, acc: 0.997
+2025-04-24 17:17:47,204 - INFO - Best model saved at epoch 91 with val_loss 0.0114
+2025-04-24 17:22:16,073 - INFO - [Train epoch 92] loss: 0.018, acc: 0.995
+2025-04-24 17:22:16,074 - INFO - [Val epoch 92] loss: 0.017, acc: 0.996
+2025-04-24 17:26:02,932 - INFO - [Train epoch 93] loss: 0.019, acc: 0.994
+2025-04-24 17:26:02,932 - INFO - [Val epoch 93] loss: 0.009, acc: 0.998
+2025-04-24 17:26:03,366 - INFO - Best model saved at epoch 93 with val_loss 0.0092
+2025-04-24 17:29:55,664 - INFO - [Train epoch 94] loss: 0.017, acc: 0.995
+2025-04-24 17:29:55,665 - INFO - [Val epoch 94] loss: 0.019, acc: 0.995
+2025-04-24 17:34:15,161 - INFO - [Train epoch 95] loss: 0.021, acc: 0.992
+2025-04-24 17:34:15,162 - INFO - [Val epoch 95] loss: 0.016, acc: 0.997
+2025-04-24 17:38:22,898 - INFO - [Train epoch 96] loss: 0.019, acc: 0.995
+2025-04-24 17:38:22,898 - INFO - [Val epoch 96] loss: 0.014, acc: 0.998
+2025-04-24 17:42:06,649 - INFO - [Train epoch 97] loss: 0.013, acc: 0.996
+2025-04-24 17:42:06,650 - INFO - [Val epoch 97] loss: 0.013, acc: 0.998
+2025-04-24 17:45:51,219 - INFO - [Train epoch 98] loss: 0.016, acc: 0.996
+2025-04-24 17:45:51,220 - INFO - [Val epoch 98] loss: 0.025, acc: 0.995
+2025-04-24 17:49:49,085 - INFO - [Train epoch 99] loss: 0.020, acc: 0.993
+2025-04-24 17:49:49,086 - INFO - [Val epoch 99] loss: 0.013, acc: 0.998
+2025-04-24 17:49:49,726 - INFO - Training finished. Best model loaded with val_loss=0.0092

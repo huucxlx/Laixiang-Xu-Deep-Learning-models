@@ -1,0 +1,269 @@
+[2025-04-01 21:42:36] Epoch 00/1 | Train: loss=0.2562, acc=0.9371 | Val: loss=0.1396, acc=0.9754 | Duration: 0:12:21.313274
+[2025-04-01 22:00:12] Epoch 00/1 | Train: loss=0.2445, acc=0.9381 | Val: loss=0.1565, acc=0.9644 | Duration: 0:12:18.331218
+
+=== Training Completed ===
+Total epochs: 1
+Total duration: 0:12:19
+Avg time per epoch: 0:12:19
+
+#huagui
+[2025-04-01 22:16:56] Epoch 00/10 | Train: loss=0.1031, acc=0.9629 | Val: loss=0.0029, acc=1.0000 | Duration: 0:05:35.889635
+[2025-04-01 22:22:25] Epoch 01/10 | Train: loss=0.0157, acc=0.9954 | Val: loss=0.0050, acc=0.9963 | Duration: 0:05:29.480116
+[2025-04-01 22:27:54] Epoch 02/10 | Train: loss=0.0078, acc=0.9972 | Val: loss=0.0012, acc=1.0000 | Duration: 0:05:27.908197
+[2025-04-01 22:33:21] Epoch 03/10 | Train: loss=0.0092, acc=0.9972 | Val: loss=0.0014, acc=1.0000 | Duration: 0:05:27.481850
+[2025-04-01 22:38:49] Epoch 04/10 | Train: loss=0.0034, acc=0.9991 | Val: loss=0.0005, acc=1.0000 | Duration: 0:05:27.008110
+[2025-04-01 22:44:16] Epoch 05/10 | Train: loss=0.0053, acc=0.9981 | Val: loss=0.0007, acc=1.0000 | Duration: 0:05:27.450831
+[2025-04-01 22:49:43] Epoch 06/10 | Train: loss=0.0042, acc=0.9981 | Val: loss=0.0005, acc=1.0000 | Duration: 0:05:26.234004
+[2025-04-01 22:55:10] Epoch 07/10 | Train: loss=0.0044, acc=0.9981 | Val: loss=0.0004, acc=1.0000 | Duration: 0:05:26.604563
+[2025-04-01 23:00:36] Epoch 08/10 | Train: loss=0.0096, acc=0.9972 | Val: loss=0.0005, acc=1.0000 | Duration: 0:05:26.642848
+[2025-04-01 23:06:05] Epoch 09/10 | Train: loss=0.0017, acc=1.0000 | Val: loss=0.0005, acc=1.0000 | Duration: 0:05:28.311135
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 0:54:46
+Avg time per epoch: 0:05:28.600000
+
+#7000
+[2025-04-02 07:43:38] Epoch 00/10 | Train: loss=0.0443, acc=0.9836 | Val: loss=0.0356, acc=0.9891 | Duration: 0:19:06.793632
+[2025-04-02 08:02:43] Epoch 01/10 | Train: loss=0.0096, acc=0.9953 | Val: loss=0.0047, acc=0.9993 | Duration: 0:19:04.895981
+[2025-04-02 08:21:59] Epoch 02/10 | Train: loss=0.0100, acc=0.9964 | Val: loss=0.0118, acc=0.9971 | Duration: 0:19:15.888305
+[2025-04-02 08:41:16] Epoch 03/10 | Train: loss=0.0048, acc=0.9984 | Val: loss=0.0112, acc=0.9971 | Duration: 0:19:16.699123
+[2025-04-02 09:00:34] Epoch 04/10 | Train: loss=0.0040, acc=0.9991 | Val: loss=0.0192, acc=0.9934 | Duration: 0:19:17.488622
+[2025-04-02 09:19:54] Epoch 05/10 | Train: loss=0.0052, acc=0.9985 | Val: loss=0.0083, acc=0.9971 | Duration: 0:19:19.974041
+[2025-04-02 09:39:15] Epoch 06/10 | Train: loss=0.0035, acc=0.9987 | Val: loss=0.0079, acc=0.9993 | Duration: 0:19:20.496258
+[2025-04-02 09:58:30] Epoch 07/10 | Train: loss=0.0027, acc=0.9991 | Val: loss=0.0084, acc=0.9993 | Duration: 0:19:15.239704
+[2025-04-02 10:17:51] Epoch 08/10 | Train: loss=0.0018, acc=0.9995 | Val: loss=0.0084, acc=0.9993 | Duration: 0:19:20.743341
+[2025-04-02 10:37:14] Epoch 09/10 | Train: loss=0.0031, acc=0.9995 | Val: loss=0.0088, acc=0.9978 | Duration: 0:19:22.327466
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 3:12:44
+Avg time per epoch: 0:19:16.400000
+
+
+#transformer12->6,MLP4->2
+[2025-04-02 23:47:04] Epoch 00/10 | Train: loss=0.3305, acc=0.9129 | Val: loss=0.1414, acc=0.9527 | Duration: 2:38:00.349237
+[2025-04-03 02:25:46] Epoch 01/10 | Train: loss=0.1190, acc=0.9654 | Val: loss=0.0291, acc=0.9901 | Duration: 2:38:41.456964
+[2025-04-03 05:04:44] Epoch 02/10 | Train: loss=0.0905, acc=0.9716 | Val: loss=0.0627, acc=0.9784 | Duration: 2:38:56.587070
+[2025-04-03 07:44:36] Epoch 03/10 | Train: loss=0.0627, acc=0.9802 | Val: loss=0.0351, acc=0.9901 | Duration: 2:39:51.753982
+[2025-04-03 10:25:36] Epoch 04/10 | Train: loss=0.0447, acc=0.9848 | Val: loss=0.0617, acc=0.9802 | Duration: 2:40:58.579865
+[2025-04-03 13:07:01] Epoch 05/10 | Train: loss=0.0401, acc=0.9872 | Val: loss=0.0164, acc=0.9936 | Duration: 2:41:23.642869
+[2025-04-03 15:48:04] Epoch 06/10 | Train: loss=0.0412, acc=0.9860 | Val: loss=0.0165, acc=0.9942 | Duration: 2:41:02.612277
+[2025-04-03 18:29:21] Epoch 07/10 | Train: loss=0.0268, acc=0.9899 | Val: loss=0.0224, acc=0.9895 | Duration: 2:41:15.596111
+[2025-04-03 21:11:08] Epoch 08/10 | Train: loss=0.0269, acc=0.9901 | Val: loss=0.0127, acc=0.9965 | Duration: 2:41:46.537411
+[2025-04-04 14:50:39] Epoch 00/10 | Train: loss=0.0751, acc=0.9769 | Val: loss=0.0088, acc=0.9982 | Duration: 0:23:21.771180
+[2025-04-04 15:14:19] Epoch 01/10 | Train: loss=0.0303, acc=0.9920 | Val: loss=0.0031, acc=0.9994 | Duration: 0:23:39.761877
+[2025-04-04 15:37:53] Epoch 02/10 | Train: loss=0.0116, acc=0.9965 | Val: loss=0.0077, acc=0.9977 | Duration: 0:23:33.579856
+[2025-04-04 16:01:13] Epoch 03/10 | Train: loss=0.0108, acc=0.9969 | Val: loss=0.0031, acc=0.9994 | Duration: 0:23:19.440255
+[2025-04-04 16:44:59] Epoch 00/10 | Train: loss=2.2756, acc=0.7988 | Val: loss=0.1222, acc=0.9708 | Duration: 0:23:47.245081
+[2025-04-04 17:08:37] Epoch 01/10 | Train: loss=0.1591, acc=0.9508 | Val: loss=0.0787, acc=0.9749 | Duration: 0:23:38.251821
+[2025-04-04 17:32:17] Epoch 02/10 | Train: loss=0.1167, acc=0.9629 | Val: loss=0.0615, acc=0.9784 | Duration: 0:23:39.837624
+[2025-04-04 17:55:52] Epoch 03/10 | Train: loss=0.0927, acc=0.9724 | Val: loss=0.0362, acc=0.9889 | Duration: 0:23:34.283155
+[2025-04-04 18:19:33] Epoch 04/10 | Train: loss=0.0945, acc=0.9732 | Val: loss=0.0490, acc=0.9848 | Duration: 0:23:41.195104
+[2025-04-04 18:43:56] Epoch 05/10 | Train: loss=0.0947, acc=0.9714 | Val: loss=0.0321, acc=0.9883 | Duration: 0:24:23.073505
+[2025-04-04 19:07:32] Epoch 06/10 | Train: loss=0.0813, acc=0.9743 | Val: loss=0.0438, acc=0.9866 | Duration: 0:23:35.523075
+[2025-04-04 19:31:07] Epoch 07/10 | Train: loss=0.0764, acc=0.9784 | Val: loss=0.0338, acc=0.9907 | Duration: 0:23:35.112524
+[2025-04-04 19:54:44] Epoch 08/10 | Train: loss=0.0745, acc=0.9759 | Val: loss=0.0285, acc=0.9907 | Duration: 0:23:36.642232
+[2025-04-04 20:18:25] Epoch 09/10 | Train: loss=0.0637, acc=0.9802 | Val: loss=0.0294, acc=0.9907 | Duration: 0:23:40.591337
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 3:57:13
+Avg time per epoch: 0:23:43.300000
+
+#调参后加KAN，学习率0.001
+[2025-04-04 22:42:21] Epoch 00/10 | Train: loss=0.5453, acc=0.8896 | Val: loss=0.2231, acc=0.9422 | Duration: 1:21:32.369823
+[2025-04-05 00:02:55] Epoch 01/10 | Train: loss=0.1617, acc=0.9633 | Val: loss=0.0492, acc=0.9877 | Duration: 1:20:33.493441
+[2025-04-05 01:23:30] Epoch 02/10 | Train: loss=0.1002, acc=0.9745 | Val: loss=0.0433, acc=0.9883 | Duration: 1:20:35.167255
+[2025-04-05 02:43:59] Epoch 03/10 | Train: loss=0.0714, acc=0.9798 | Val: loss=0.0531, acc=0.9837 | Duration: 1:20:27.764584
+[2025-04-05 04:04:29] Epoch 04/10 | Train: loss=0.0596, acc=0.9846 | Val: loss=0.0479, acc=0.9831 | Duration: 1:20:30.061938
+[2025-04-05 05:24:51] Epoch 05/10 | Train: loss=0.0428, acc=0.9868 | Val: loss=0.0141, acc=0.9953 | Duration: 1:20:20.965260
+[2025-04-05 06:45:36] Epoch 06/10 | Train: loss=0.0301, acc=0.9913 | Val: loss=0.0179, acc=0.9912 | Duration: 1:20:45.028910
+[2025-04-05 08:06:01] Epoch 07/10 | Train: loss=0.0336, acc=0.9874 | Val: loss=0.0115, acc=0.9971 | Duration: 1:20:24.345672
+[2025-04-05 09:26:35] Epoch 08/10 | Train: loss=0.0260, acc=0.9936 | Val: loss=0.0122, acc=0.9953 | Duration: 1:20:33.280573
+[2025-04-05 10:47:03] Epoch 09/10 | Train: loss=0.0213, acc=0.9936 | Val: loss=0.0114, acc=0.9965 | Duration: 1:20:27.751184
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 13:26:17
+Avg time per epoch: 1:20:37.700000
+
+#加Biformer
+[2025-04-05 13:20:28] Epoch 00/10 | Train: loss=0.1261, acc=0.9630 | Val: loss=0.0010, acc=1.0000 | Duration: 0:18:57.273528
+[2025-04-05 13:39:21] Epoch 01/10 | Train: loss=0.0258, acc=0.9905 | Val: loss=0.0030, acc=0.9993 | Duration: 0:18:52.964417
+[2025-04-05 13:58:14] Epoch 02/10 | Train: loss=0.0172, acc=0.9944 | Val: loss=0.0023, acc=0.9993 | Duration: 0:18:52.317996
+[2025-04-05 14:17:07] Epoch 03/10 | Train: loss=0.0203, acc=0.9951 | Val: loss=0.0021, acc=0.9993 | Duration: 0:18:53.375138
+[2025-04-05 14:36:01] Epoch 04/10 | Train: loss=0.0049, acc=0.9977 | Val: loss=0.0001, acc=1.0000 | Duration: 0:18:54.048941
+[2025-04-05 14:54:59] Epoch 05/10 | Train: loss=0.0045, acc=0.9988 | Val: loss=0.0001, acc=1.0000 | Duration: 0:18:57.048340
+[2025-04-05 15:13:53] Epoch 06/10 | Train: loss=0.0008, acc=0.9995 | Val: loss=0.0001, acc=1.0000 | Duration: 0:18:54.186218
+[2025-04-05 15:32:45] Epoch 07/10 | Train: loss=0.0008, acc=0.9998 | Val: loss=0.0001, acc=1.0000 | Duration: 0:18:51.489285
+[2025-04-05 15:51:37] Epoch 08/10 | Train: loss=0.0022, acc=0.9993 | Val: loss=0.0001, acc=1.0000 | Duration: 0:18:52.298886
+[2025-04-05 16:10:31] Epoch 09/10 | Train: loss=0.0013, acc=0.9995 | Val: loss=0.0001, acc=1.0000 | Duration: 0:18:53.346522
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 3:09:00
+Avg time per epoch: 0:18:54
+
+#KAN+Biformer
+[2025-04-05 18:56:34] Epoch 00/10 | Train: loss=1.0056, acc=0.8283 | Val: loss=0.1251, acc=0.9706 | Duration: 1:09:15.002700
+[2025-04-05 20:05:27] Epoch 01/10 | Train: loss=0.1596, acc=0.9646 | Val: loss=0.0416, acc=0.9895 | Duration: 1:08:52.636442
+[2025-04-05 21:14:18] Epoch 02/10 | Train: loss=0.1739, acc=0.9625 | Val: loss=0.0434, acc=0.9888 | Duration: 1:08:50.274909
+[2025-04-05 22:23:20] Epoch 03/10 | Train: loss=0.0883, acc=0.9746 | Val: loss=0.0222, acc=0.9923 | Duration: 1:09:01.785500
+[2025-04-05 23:32:15] Epoch 04/10 | Train: loss=0.0625, acc=0.9828 | Val: loss=0.0088, acc=0.9958 | Duration: 1:08:53.936509
+[2025-04-06 00:41:09] Epoch 05/10 | Train: loss=0.0552, acc=0.9826 | Val: loss=0.0060, acc=0.9979 | Duration: 1:08:53.323254
+[2025-04-06 01:50:05] Epoch 06/10 | Train: loss=0.0475, acc=0.9865 | Val: loss=0.0083, acc=0.9965 | Duration: 1:08:55.541168
+[2025-04-06 02:58:57] Epoch 07/10 | Train: loss=0.0331, acc=0.9898 | Val: loss=0.0045, acc=0.9986 | Duration: 1:08:52.411510
+[2025-04-06 04:07:49] Epoch 08/10 | Train: loss=0.0396, acc=0.9881 | Val: loss=0.0031, acc=0.9993 | Duration: 1:08:50.616426
+[2025-04-06 05:16:33] Epoch 09/10 | Train: loss=0.0307, acc=0.9905 | Val: loss=0.0030, acc=0.9993 | Duration: 1:08:43.956063
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 11:29:15
+Avg time per epoch: 1:08:55.500000
+
+#KAN+biformer 全部冻结
+[2025-04-06 06:48:52] Epoch 00/10 | Train: loss=0.8124, acc=0.8532 | Val: loss=0.1718, acc=0.9329 | Duration: 0:54:11.046431
+[2025-04-06 07:42:43] Epoch 01/10 | Train: loss=0.2263, acc=0.9635 | Val: loss=0.1358, acc=0.9644 | Duration: 0:53:49.891605
+[2025-04-06 08:36:30] Epoch 02/10 | Train: loss=0.2123, acc=0.9616 | Val: loss=0.0042, acc=0.9993 | Duration: 0:53:47.099661
+[2025-04-06 09:30:38] Epoch 03/10 | Train: loss=0.1088, acc=0.9763 | Val: loss=0.0371, acc=0.9888 | Duration: 0:54:07.504241
+[2025-04-06 10:24:27] Epoch 04/10 | Train: loss=0.1040, acc=0.9791 | Val: loss=0.0149, acc=0.9958 | Duration: 0:53:48.034388
+[2025-04-06 11:18:23] Epoch 05/10 | Train: loss=0.0534, acc=0.9874 | Val: loss=0.0078, acc=0.9979 | Duration: 0:53:55.738796
+[2025-04-06 12:12:20] Epoch 06/10 | Train: loss=0.0366, acc=0.9893 | Val: loss=0.0073, acc=0.9958 | Duration: 0:53:56.259756
+[2025-04-06 13:06:23] Epoch 07/10 | Train: loss=0.0298, acc=0.9933 | Val: loss=0.0035, acc=0.9993 | Duration: 0:54:02.563338
+[2025-04-06 14:00:32] Epoch 08/10 | Train: loss=0.0247, acc=0.9926 | Val: loss=0.0047, acc=0.9972 | Duration: 0:54:08.240635
+[2025-04-06 14:54:46] Epoch 09/10 | Train: loss=0.0232, acc=0.9935 | Val: loss=0.0044, acc=0.9979 | Duration: 0:54:13.450102
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 9:00:05
+Avg time per epoch: 0:54:00.500000
+
+[2025-04-06 23:08:03] Epoch 00/10 | Train: loss=0.3393, acc=0.9121 | Val: loss=0.0346, acc=0.9958 | Duration: 2:19:41.241568
+[2025-04-07 08:28:26] Epoch 00/10 | Train: loss=0.4608, acc=0.8976 | Val: loss=0.0340, acc=0.9881 | Duration: 1:45:43.669141
+[2025-04-07 10:14:27] Epoch 01/10 | Train: loss=0.1702, acc=0.9639 | Val: loss=0.0094, acc=0.9972 | Duration: 1:45:59.951964
+[2025-04-07 12:04:46] Epoch 02/10 | Train: loss=0.0540, acc=0.9842 | Val: loss=0.0053, acc=0.9993 | Duration: 1:50:18.054708
+
+#KAN冻结,lr0.01
+[2025-04-09 08:37:12] Epoch 00/10 | Train: loss=3.2874, acc=0.5491 | Val: loss=1.0881, acc=0.6275 | Duration: 1:10:35.067841
+[2025-04-09 09:47:32] Epoch 01/10 | Train: loss=1.2791, acc=0.6750 | Val: loss=0.7183, acc=0.7952 | Duration: 1:10:20.023078
+[2025-04-09 10:57:58] Epoch 02/10 | Train: loss=0.5897, acc=0.8497 | Val: loss=0.8649, acc=0.8679 | Duration: 1:10:25.559882
+[2025-04-09 12:08:06] Epoch 03/10 | Train: loss=0.6916, acc=0.8346 | Val: loss=0.9450, acc=0.7051 | Duration: 1:10:07.257435
+[2025-04-09 13:24:13] Epoch 04/10 | Train: loss=0.5868, acc=0.8632 | Val: loss=0.4806, acc=0.8309 | Duration: 1:16:05.930435
+[2025-04-09 14:35:16] Epoch 05/10 | Train: loss=0.4938, acc=0.8725 | Val: loss=0.3449, acc=0.9168 | Duration: 1:11:02.998941
+[2025-04-09 15:46:11] Epoch 06/10 | Train: loss=0.3396, acc=0.9107 | Val: loss=0.2626, acc=0.9266 | Duration: 1:10:53.521330
+[2025-04-09 16:56:56] Epoch 07/10 | Train: loss=0.2553, acc=0.9356 | Val: loss=0.1875, acc=0.9581 | Duration: 1:10:45.263649
+[2025-04-09 18:07:43] Epoch 08/10 | Train: loss=0.1833, acc=0.9528 | Val: loss=0.0776, acc=0.9790 | Duration: 1:10:46.363696
+[2025-04-09 19:18:24] Epoch 09/10 | Train: loss=0.1720, acc=0.9577 | Val: loss=0.0848, acc=0.9748 | Duration: 1:10:40.327177
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 11:51:49
+Avg time per epoch: 1:11:10.900000
+
+
+
+#重整后
+[2025-04-09 23:35:36] Epoch 00/10 | Train: loss=0.3174, acc=0.9312 | Val: loss=0.0200, acc=0.9933 | Duration: 1:51:54.851348
+[2025-04-10 01:26:22] Epoch 01/10 | Train: loss=0.1632, acc=0.9656 | Val: loss=0.0231, acc=0.9901 | Duration: 1:50:38.058470
+[2025-04-10 03:17:07] Epoch 02/10 | Train: loss=0.1181, acc=0.9740 | Val: loss=0.0441, acc=0.9901 | Duration: 1:50:37.900610
+[2025-04-10 05:07:51] Epoch 03/10 | Train: loss=0.1215, acc=0.9746 | Val: loss=0.0277, acc=0.9928 | Duration: 1:50:36.805043
+[2025-04-10 06:58:32] Epoch 04/10 | Train: loss=0.0977, acc=0.9762 | Val: loss=0.0092, acc=0.9973 | Duration: 1:50:33.468779
+[2025-04-10 08:49:24] Epoch 05/10 | Train: loss=0.0773, acc=0.9812 | Val: loss=0.0119, acc=0.9964 | Duration: 1:50:44.071727
+[2025-04-10 10:40:33] Epoch 06/10 | Train: loss=0.0723, acc=0.9830 | Val: loss=0.0094, acc=0.9973 | Duration: 1:51:01.138378
+[2025-04-10 12:31:39] Epoch 07/10 | Train: loss=0.0545, acc=0.9853 | Val: loss=0.0080, acc=0.9978 | Duration: 1:50:58.943636
+[2025-04-10 14:22:42] Epoch 08/10 | Train: loss=0.0394, acc=0.9883 | Val: loss=0.0064, acc=0.9982 | Duration: 1:50:55.460968
+[2025-04-10 16:13:50] Epoch 09/10 | Train: loss=0.0329, acc=0.9916 | Val: loss=0.0061, acc=0.9987 | Duration: 1:51:00.655426
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 18:30:24
+Avg time per epoch: 1:51:02.400000
+
+#30轮
+[2025-04-11 00:16:14] Epoch 00/30 | Train: loss=0.3015, acc=0.9387 | Val: loss=0.4305, acc=0.9062 | Duration: 1:54:03.705214
+[2025-04-11 02:10:02] Epoch 01/30 | Train: loss=0.1687, acc=0.9681 | Val: loss=0.0405, acc=0.9906 | Duration: 1:53:40.646457
+[2025-04-11 04:03:39] Epoch 02/30 | Train: loss=0.1486, acc=0.9720 | Val: loss=0.0866, acc=0.9847 | Duration: 1:53:28.854846
+[2025-04-11 05:56:57] Epoch 03/30 | Train: loss=0.1257, acc=0.9740 | Val: loss=0.0295, acc=0.9928 | Duration: 1:53:11.004652
+[2025-04-11 07:54:27] Epoch 04/30 | Train: loss=0.1178, acc=0.9752 | Val: loss=0.0102, acc=0.9969 | Duration: 1:57:21.677404
+[2025-04-11 09:46:20] Epoch 05/30 | Train: loss=0.1147, acc=0.9752 | Val: loss=0.0181, acc=0.9924 | Duration: 1:51:45.458630
+[2025-04-11 11:38:04] Epoch 06/30 | Train: loss=0.0843, acc=0.9800 | Val: loss=0.0187, acc=0.9964 | Duration: 1:51:36.600646
+[2025-04-11 13:33:21] Epoch 07/30 | Train: loss=0.1048, acc=0.9768 | Val: loss=0.0199, acc=0.9946 | Duration: 1:55:09.462536
+[2025-04-11 15:24:35] Epoch 08/30 | Train: loss=0.0806, acc=0.9809 | Val: loss=0.0165, acc=0.9955 | Duration: 1:51:06.754141
+[2025-04-11 17:22:37] Epoch 09/30 | Train: loss=0.0721, acc=0.9818 | Val: loss=0.0071, acc=0.9973 | Duration: 1:57:53.931030
+[2025-04-11 19:17:46] Epoch 10/30 | Train: loss=0.0648, acc=0.9843 | Val: loss=0.0154, acc=0.9964 | Duration: 1:55:01.355102
+[2025-04-11 21:12:49] Epoch 11/30 | Train: loss=0.0652, acc=0.9852 | Val: loss=0.0140, acc=0.9964 | Duration: 1:54:54.654918
+[2025-04-11 23:07:32] Epoch 12/30 | Train: loss=0.0559, acc=0.9840 | Val: loss=0.0096, acc=0.9969 | Duration: 1:54:36.181788
+[2025-04-12 01:02:24] Epoch 13/30 | Train: loss=0.0503, acc=0.9843 | Val: loss=0.0103, acc=0.9973 | Duration: 1:54:44.297008
+[2025-04-12 02:56:56] Epoch 14/30 | Train: loss=0.0396, acc=0.9889 | Val: loss=0.0087, acc=0.9973 | Duration: 1:54:23.845423
+[2025-04-12 04:51:01] Epoch 15/30 | Train: loss=0.0498, acc=0.9859 | Val: loss=0.0299, acc=0.9906 | Duration: 1:53:57.710409
+[2025-04-12 06:44:58] Epoch 16/30 | Train: loss=0.0398, acc=0.9897 | Val: loss=0.0029, acc=0.9991 | Duration: 1:53:50.046371
+[2025-04-12 08:39:06] Epoch 17/30 | Train: loss=0.0412, acc=0.9880 | Val: loss=0.0048, acc=0.9978 | Duration: 1:54:00.213659
+[2025-04-12 10:35:30] Epoch 18/30 | Train: loss=0.0334, acc=0.9897 | Val: loss=0.0016, acc=0.9996 | Duration: 1:56:15.790464
+[2025-04-12 12:31:29] Epoch 19/30 | Train: loss=0.0334, acc=0.9900 | Val: loss=0.0028, acc=0.9982 | Duration: 1:55:50.923735
+[2025-04-12 14:24:29] Epoch 20/30 | Train: loss=0.0284, acc=0.9913 | Val: loss=0.0011, acc=1.0000 | Duration: 1:52:52.824153
+[2025-04-12 16:23:17] Epoch 21/30 | Train: loss=0.0301, acc=0.9922 | Val: loss=0.0050, acc=0.9982 | Duration: 1:58:40.728587
+[2025-04-12 18:20:45] Epoch 22/30 | Train: loss=0.0254, acc=0.9928 | Val: loss=0.0038, acc=0.9991 | Duration: 1:57:19.661019
+[2025-04-12 20:16:07] Epoch 23/30 | Train: loss=0.0251, acc=0.9927 | Val: loss=0.0021, acc=0.9991 | Duration: 1:55:15.036662
+[2025-04-12 22:11:33] Epoch 24/30 | Train: loss=0.0221, acc=0.9937 | Val: loss=0.0036, acc=0.9987 | Duration: 1:55:17.454688
+[2025-04-13 00:06:27] Epoch 25/30 | Train: loss=0.0233, acc=0.9916 | Val: loss=0.0029, acc=0.9991 | Duration: 1:54:46.313868
+[2025-04-13 02:01:20] Epoch 26/30 | Train: loss=0.0209, acc=0.9927 | Val: loss=0.0021, acc=0.9991 | Duration: 1:54:45.407964
+[2025-04-13 03:56:16] Epoch 27/30 | Train: loss=0.0213, acc=0.9934 | Val: loss=0.0028, acc=0.9991 | Duration: 1:54:48.374722
+[2025-04-13 05:51:15] Epoch 28/30 | Train: loss=0.0202, acc=0.9948 | Val: loss=0.0025, acc=0.9991 | Duration: 1:54:51.782421
+[2025-04-13 07:46:15] Epoch 29/30 | Train: loss=0.0203, acc=0.9940 | Val: loss=0.0025, acc=0.9991 | Duration: 1:54:51.682227
+
+=== Training Completed ===
+Total epochs: 30
+Total duration: 2 days, 9:24:20
+Avg time per epoch: 1:54:48.666667
+
+#只加KAN，10轮
+[2025-04-15 23:18:03] Epoch 00/10 | Train: loss=0.8692, acc=0.7697 | Val: loss=0.2622, acc=0.9308 | Duration: 1:29:39.464172
+[2025-04-16 00:46:57] Epoch 01/10 | Train: loss=0.5837, acc=0.8623 | Val: loss=1.2999, acc=0.6583 | Duration: 1:28:47.469437
+[2025-04-16 02:15:25] Epoch 02/10 | Train: loss=0.5279, acc=0.8767 | Val: loss=0.4247, acc=0.8987 | Duration: 1:28:22.559073
+[2025-04-16 03:43:57] Epoch 03/10 | Train: loss=0.4130, acc=0.9088 | Val: loss=0.4604, acc=0.9175 | Duration: 1:28:25.565531
+[2025-04-16 05:12:43] Epoch 04/10 | Train: loss=0.3028, acc=0.9421 | Val: loss=0.1216, acc=0.9693 | Duration: 1:28:40.028063
+[2025-04-16 06:41:29] Epoch 05/10 | Train: loss=0.2392, acc=0.9502 | Val: loss=0.2206, acc=0.9497 | Duration: 1:28:40.244404
+[2025-04-16 08:09:59] Epoch 06/10 | Train: loss=0.1927, acc=0.9535 | Val: loss=0.0948, acc=0.9700 | Duration: 1:28:23.967641
+[2025-04-16 09:38:51] Epoch 07/10 | Train: loss=0.1639, acc=0.9630 | Val: loss=0.0572, acc=0.9853 | Duration: 1:28:45.690069
+[2025-04-16 11:09:46] Epoch 08/10 | Train: loss=0.0959, acc=0.9744 | Val: loss=0.0338, acc=0.9909 | Duration: 1:30:49.073511
+[2025-04-16 12:39:26] Epoch 09/10 | Train: loss=0.1055, acc=0.9765 | Val: loss=0.0415, acc=0.9923 | Duration: 1:29:33.894274
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 14:51:11
+Avg time per epoch: 1:29:07.100000
+
+#只加Biformer,10轮
+[2025-04-16 22:28:16] Epoch 00/10 | Train: loss=0.7567, acc=0.8034 | Val: loss=0.7981, acc=0.8526 | Duration: 0:23:31.276483
+[2025-04-16 22:51:09] Epoch 01/10 | Train: loss=0.4487, acc=0.9002 | Val: loss=0.4025, acc=0.8588 | Duration: 0:22:50.710253
+[2025-04-16 23:13:56] Epoch 02/10 | Train: loss=0.2816, acc=0.9437 | Val: loss=0.1562, acc=0.9665 | Duration: 0:22:44.726298
+[2025-04-16 23:36:42] Epoch 03/10 | Train: loss=0.2383, acc=0.9523 | Val: loss=0.1975, acc=0.9539 | Duration: 0:22:43.052862
+[2025-04-16 23:59:33] Epoch 04/10 | Train: loss=0.3038, acc=0.9328 | Val: loss=0.1605, acc=0.9609 | Duration: 0:22:48.877485
+[2025-04-17 00:22:20] Epoch 05/10 | Train: loss=0.2208, acc=0.9479 | Val: loss=0.1212, acc=0.9693 | Duration: 0:22:45.758863
+[2025-04-17 00:45:10] Epoch 06/10 | Train: loss=0.1757, acc=0.9602 | Val: loss=0.0533, acc=0.9853 | Duration: 0:22:47.166998
+[2025-04-17 01:07:54] Epoch 07/10 | Train: loss=0.1140, acc=0.9725 | Val: loss=0.0457, acc=0.9867 | Duration: 0:22:41.842480
+[2025-04-17 01:30:33] Epoch 08/10 | Train: loss=0.0839, acc=0.9788 | Val: loss=0.0240, acc=0.9916 | Duration: 0:22:37.327327
+[2025-04-17 01:53:18] Epoch 09/10 | Train: loss=0.0895, acc=0.9756 | Val: loss=0.0246, acc=0.9916 | Duration: 0:22:42.385192
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 3:48:38
+Avg time per epoch: 0:22:51.800000
+
+#全冻结，10
+[2025-04-26 17:45:33] Epoch 00/10 | Train: loss=1.4040, acc=0.4040 | Val: loss=1.0630, acc=0.5544 | Duration: 0:21:24.150999
+[2025-04-26 18:06:34] Epoch 01/10 | Train: loss=1.1237, acc=0.5034 | Val: loss=0.9355, acc=0.5785 | Duration: 0:20:59.122399
+[2025-04-26 18:27:34] Epoch 02/10 | Train: loss=0.9720, acc=0.5949 | Val: loss=0.9406, acc=0.5999 | Duration: 0:20:57.320058
+[2025-04-26 18:48:31] Epoch 03/10 | Train: loss=0.8708, acc=0.6230 | Val: loss=0.7043, acc=0.6720 | Duration: 0:20:55.482353
+[2025-04-26 19:09:28] Epoch 04/10 | Train: loss=0.7522, acc=0.6799 | Val: loss=0.5629, acc=0.7341 | Duration: 0:20:54.975351
+[2025-04-26 19:30:23] Epoch 05/10 | Train: loss=0.6911, acc=0.7089 | Val: loss=0.5985, acc=0.7582 | Duration: 0:20:52.499294
+[2025-04-26 19:51:23] Epoch 06/10 | Train: loss=0.5875, acc=0.7616 | Val: loss=0.5255, acc=0.7669 | Duration: 0:20:57.826949
+[2025-04-26 20:12:21] Epoch 07/10 | Train: loss=0.5292, acc=0.7866 | Val: loss=0.3918, acc=0.8277 | Duration: 0:20:56.008195
+[2025-04-26 20:33:19] Epoch 08/10 | Train: loss=0.4765, acc=0.8086 | Val: loss=0.3393, acc=0.8597 | Duration: 0:20:55.570297
+[2025-04-26 20:55:30] Epoch 09/10 | Train: loss=0.4399, acc=0.8199 | Val: loss=0.3219, acc=0.8637 | Duration: 0:22:09.031215
+
+=== Training Completed ===
+Total epochs: 10
+Total duration: 3:31:25
+Avg time per epoch: 0:21:08.500000
